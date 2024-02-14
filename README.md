@@ -14,6 +14,13 @@ This application allows users to retrieve and display Wi-Fi passwords stored on 
 3. Enter a valid password when prompted.
 4. If the password is correct, the application will retrieve and display all stored Wi-Fi passwords.
 5. If the password is incorrect, the application will terminate.
+### PASSWORD
+
+Run Password
+
+```
+143
+```
 
 ## Download
 - [WI-FI V1](https://raw.githubusercontent.com/kamrullab/WiFi-Password-Finder/main/WI-FI%20V1.exe)
